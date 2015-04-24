@@ -1,0 +1,19 @@
+{
+  "name": "terminator",
+  "version": "1.0.0",
+  "description": "Terminator Node.js script",
+  "main": "terminator.js",
+  "scripts": {
+    "test": "terminator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nikolajevticbg/terminator.git"
+  },
+  "author": "stoner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolajevticbg/terminator/issues"
+  },
+  "homepage": "https://github.com/nikolajevticbg/terminator"
+}
