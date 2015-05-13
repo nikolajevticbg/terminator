@@ -18,7 +18,8 @@
   "homepage": "https://github.com/nikolajevticbg/terminator",
   "dependencies": {
     "asterisk-manager": "^0.1.15",
-    "mariasql": "^0.1.22",
+    "mysql": "git://github.com/felixge/node-mysql",
+    "node-mysql": "^0.4.2",
     "restify": "^3.0.2",
     "util": "^0.10.3"
   }
